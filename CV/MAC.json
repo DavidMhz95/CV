@@ -332,6 +332,22 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso de Transformación digital para el empleo",
+        "startDate": "2018-07-01",
+        "finishDate": "2018-07-01",
+        "institution": {
+          "name": "Google Actívate",
+          "description": "",
+          "URL": "https://sites.google.com/view/transformacion-para-el-empleo/",
+          "image": {
+            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/3075fe68-5fa1-463d-9b21-7e182974d4fd_dw_logo_es_es_horiz_.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Graduado en Ingeniería Informática ",
