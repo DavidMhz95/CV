@@ -364,6 +364,27 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript Algorithms and Data Structures",
+        "startDate": "2021-08-01",
+        "institution": {
+          "name": "FreeCodeCamp",
+          "description": "Developer Certification, representing approximately 300 hours of coursework.",
+          "URL": "https://www.freecodecamp.org/certification/fcc71bfc6e5-256e-40d7-9d58-469eb65c5e63/javascript-algorithms-and-data-structures",
+          "image": {
+            "alt": "1589990867649.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/0816d4a8-ecdb-48ce-9096-87fa5d36f290_1589990867649.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Graduado en Ingeniería Informática ",
