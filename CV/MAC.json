@@ -219,12 +219,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -249,19 +243,13 @@
       },
       {
         "skill": {
-          "name": ".NET",
+          "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WPF",
+          "name": "Subversion",
           "type": "technology"
         }
       }
@@ -273,36 +261,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/david-mu%C3%B1oz-hern%C3%A1ndez-216517136"
-        }
-      ]
-    },
-    "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "NodeJS",
-          "type": "technology"
-        },
-        {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "C++",
-          "type": "technology"
-        },
-        {
-          "name": "C",
-          "type": "technology"
         }
       ]
     }
