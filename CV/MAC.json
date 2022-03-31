@@ -104,6 +104,58 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "alt": "1519855959123.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/65b4747b-5022-47b0-88c4-93d6e3dc177b_1519855959123.jpg"
+          },
+          "URL": "http://www.kr.inf.uc3m.es/who-we-are/old-members-2/"
+        },
+        "roles": [
+          {
+            "name": "Technical Researcher at Knowledge Reuse Group ",
+            "startDate": "2019-10-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "-Participación en desarrollo de test para herramientas de gestión de requisitos, gestión del conocimiento y autoría.\n- Desarrollo de una plataforma web para la validación, consolidación y completitud de modelos para una importante empresa del sector aeroespacial. \n- Participación en el desarrollo de un plugin web basado en Angular para la autoría de requisitos usando como base la herramienta de IBM Doors next Generation.\n- Colaboración en el desarrollo de la interfaz del buscador web \"Alacarta\" de RTVE basada en Angular.\n- Contribución al desarrollo de una aplicación web para la gestión del conocimiento basada en Angular y .NetCore.\n\n-Colaboración con el departamento de Marketing del grupo KCS en la creación de logos, cajas de producto.."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "VB.NET",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
