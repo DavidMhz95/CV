@@ -316,6 +316,22 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso básico de Marketing Digital",
+        "startDate": "2018-06-01",
+        "finishDate": "2018-06-01",
+        "institution": {
+          "name": "Google Actívate",
+          "description": "",
+          "URL": "https://sites.google.com/view/curso-basico-marketing-digital/",
+          "image": {
+            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/264796a6-1ca5-459d-9268-8ce47e581ea8_dw_logo_es_es_horiz_.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Graduado en Ingeniería Informática ",
