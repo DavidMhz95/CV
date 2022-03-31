@@ -208,6 +208,48 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Black Market",
+          "description": "Nos juntamos un grupo de tres compañeros de trabajo intentando hacer un desarrollo fullstack para crear un e-commerce generico. Y ya de paso afianzar conocimientos en tecnologías como angular, node etc...\n\nNo finalizado.",
+          "URL": "https://github.com/DavidMhz95/E-commerce"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-05-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "TeamCity",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
