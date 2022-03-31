@@ -313,6 +313,58 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Graduado en Ingeniería Informática ",
+        "startDate": "2014-09-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid",
+          "description": "Certificado de graduación en el grado de ingeniería informática por la universidad Carlos III de Madrid",
+          "URL": "https://www.uc3m.es/inicio",
+          "image": {
+            "alt": "1519855959123.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b191444c-2fd5-4a20-923d-8304da9d1d43_1519855959123.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Subversion",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
