@@ -348,6 +348,22 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso de productividad en la era digital",
+        "startDate": "2018-10-01",
+        "finishDate": "2018-10-01",
+        "institution": {
+          "name": "Google Actívate",
+          "description": "",
+          "URL": "https://sites.google.com/view/productividad-personal/",
+          "image": {
+            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/d40bc9cf-d7b5-4faa-9c0f-374835b43bd4_dw_logo_es_es_horiz_.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Graduado en Ingeniería Informática ",
