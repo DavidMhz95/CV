@@ -43,6 +43,70 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "FM Logistic Iberica",
+          "image": {
+            "alt": "1554274133387.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/56d6f919-0ff2-4b4c-b4f1-8c6692a39422_1554274133387.jpg"
+          },
+          "URL": "https://www.fmlogistic.es/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Software Junior",
+            "startDate": "2019-03-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Programación de Aplicaciones. \nGestión BBDD, análisis, toma de requisitos.\nProyectos en logística y transporte desde sector de IT."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Subversion",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
