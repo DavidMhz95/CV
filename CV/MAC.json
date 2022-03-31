@@ -156,6 +156,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "The Reuse Company",
+          "image": {
+            "alt": "1623251951644.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/3b41605e-ee26-4330-b320-d292c809ce5b_1623251951644.jpg"
+          },
+          "URL": "https://www.reusecompany.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "- Coordinación y participación en la mejora y mantenimiento de una aplicación de escritorio .NET usada para la trazabilidad.\n- Integración de aplicaciones .NET\n- Desarrollo de un visualizador genérico de diagramas usando tecnología .NET y devexpress.\n- Colaboración en el desarrollo de la interfaz del buscador web \"Alacarta\" de RTVE basada en Angular.\n- Participación en el proyecto europeo IMOLA: https://www.elra.eu/imola-project/"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Subversion",
+                "type": "technology"
+              },
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "VB.NET",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
