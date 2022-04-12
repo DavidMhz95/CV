@@ -7,15 +7,15 @@
   "aboutMe": {
     "profile": {
       "name": "David",
-      "surnames": "Muñoz",
-      "title": "Software Developer",
+      "surnames": "Muñoz Hernández",
+      "title": ".NET & JS Developer",
       "description": "Soy David, tengo 26 años y me gradué como ingeniero informático en la universidad Carlos III. Actualmente vivio en Illescas, una pequeña ciudad de Toledo. Soy un apasionado de la tecnología, me encanta aprender constantemente y me interesa mucho el mercado tecnológico. Tengo experiencia en logística (tanto de mozo de almacén como de ingeniero informático) ya que fui mozo mientras me sacaba la carrera y realicé mis prácticas en una logística. Posteriormente estuve alrededor de un año trabajando para una empresa a través de un contrato de investigador en la universidad y tras pasar el año me hicieron fijo. Por tanto llevo 2 años y algo en la compañía. En ella nos dedicamos a la ingeniería de sistemas; creamos software para gestionar requisitos, trazabilidad... basados en natural language processing. En resumen una empresa de producto. Este año me ascendieron a responsable de Trazabilidad y llevo un pequeño equipo de 2 personas. Mi sueño es trabajar en remoto desde la playa para alguna empresa que me motive a seguir aprendiendo cada día y me trate mas como un humano que como un recurso.",
       "avatar": {
         "alt": "uX5nqx1M-min (1).png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b2c919c0-e785-437d-8982-183f144a99d7_ux5nqx1m-min-(1).png"
       },
       "location": {
-        "notes": "Illescas, Toledo"
+        "notes": "Toledo, Spain"
       }
     },
     "relevantLinks": [
@@ -66,7 +66,11 @@
             ],
             "competences": [
               {
-                "name": "ASP.net",
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
@@ -78,7 +82,7 @@
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
+                "name": "C#",
                 "type": "technology"
               },
               {
@@ -86,15 +90,11 @@
                 "type": "technology"
               },
               {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
                 "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -126,18 +126,6 @@
             ],
             "competences": [
               {
-                "name": ".NET",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "VB.NET",
-                "type": "technology"
-              },
-              {
                 "name": "JavaScript",
                 "type": "technology"
               },
@@ -146,11 +134,23 @@
                 "type": "technology"
               },
               {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
                 "name": "TypeScript",
                 "type": "technology"
               },
               {
-                "name": "CSS",
+                "name": "VB.NET",
                 "type": "technology"
               }
             ]
@@ -177,11 +177,11 @@
             ],
             "competences": [
               {
-                "name": "Angular2+",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
@@ -189,7 +189,7 @@
                 "type": "technology"
               },
               {
-                "name": "Subversion",
+                "name": "C#",
                 "type": "technology"
               },
               {
@@ -201,7 +201,7 @@
                 "type": "technology"
               },
               {
-                "name": "C#",
+                "name": "Subversion",
                 "type": "technology"
               }
             ]
@@ -256,6 +256,9 @@
     "languages": [
       {
         "name": "Spanish"
+      },
+      {
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -417,11 +420,11 @@
             "type": "technology"
           },
           {
-            "name": "C#",
+            "name": "C++",
             "type": "technology"
           },
           {
-            "name": "C++",
+            "name": "C#",
             "type": "technology"
           },
           {
