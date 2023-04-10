@@ -9,7 +9,7 @@
       "name": "David",
       "surnames": "Muñoz Hernández",
       "title": ".NET & JS Developer",
-      "description": "",
+      "description": "Soy David, tengo 27 años y me gradué como ingeniero informático en la universidad Carlos III. Actualmente vivio en Illescas, una pequeña ciudad de Toledo. Soy un apasionado de la tecnología, me encanta aprender constantemente y me interesa mucho el mercado tecnológico. Tengo experiencia en logística (tanto de mozo de almacén como de ingeniero informático) ya que fui mozo mientras me sacaba la carrera y realicé mis prácticas en una logística. Posteriormente estuve alrededor de un año trabajando para una empresa a través de un contrato de investigador en la universidad y tras pasar el año me hicieron fijo. Por tanto llevo 2 años y algo en la compañía. En ella nos dedicamos a la ingeniería de sistemas; creamos software para gestionar requisitos, trazabilidad... basados en natural language processing. En resumen una empresa de producto. Este año me ascendieron a responsable de Trazabilidad y llevo un pequeño equipo de 2 personas. Mi sueño es trabajar en remoto desde la playa para alguna empresa que me motive a seguir aprendiendo cada día y me trate mas como un humano que como un recurso.",
       "avatar": {
         "alt": "uX5nqx1M-min (1).png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b2c919c0-e785-437d-8982-183f144a99d7_ux5nqx1m-min-(1).png"
@@ -259,11 +259,11 @@
     "languages": [
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
