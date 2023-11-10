@@ -253,6 +253,23 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Producto Traceability Studio",
+          "description": "Coordinación y desarrollo de la app de escritorio Traceability Studio. Que actualmente se vende dentro de un PLM conocido como SES Engineering Studio.\n",
+          "URL": "https://www.reusecompany.com/traceability-management"
+        },
+        "type": "launch",
+        "publishingDate": "2023-09-01",
+        "relatedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
