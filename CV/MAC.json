@@ -502,6 +502,12 @@
           "name": "Pensamiento analítico",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento creativo",
+          "type": "practice"
+        }
       }
     ]
   },
