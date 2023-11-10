@@ -374,36 +374,6 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Curso básico de Marketing Digital",
-        "startDate": "2018-06-01",
-        "institution": {
-          "name": "Google Actívate",
-          "URL": "https://sites.google.com/view/curso-basico-marketing-digital/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/264796a6-1ca5-459d-9268-8ce47e581ea8_dw_logo_es_es_horiz_.png",
-            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png"
-          }
-        },
-        "finishDate": "2018-06-01"
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Curso de Transformación digital para el empleo",
-        "startDate": "2018-07-01",
-        "institution": {
-          "name": "Google Actívate",
-          "URL": "https://sites.google.com/view/transformacion-para-el-empleo/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/3075fe68-5fa1-463d-9b21-7e182974d4fd_dw_logo_es_es_horiz_.png",
-            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png"
-          }
-        },
-        "finishDate": "2018-07-01"
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Graduado en Ingeniería Informática ",
