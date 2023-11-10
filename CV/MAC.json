@@ -11,26 +11,16 @@
       "title": ".NET & JS Developer",
       "description": "Soy David, tengo 27 años y me gradué como ingeniero informático en la universidad Carlos III. Actualmente vivio en Illescas, una pequeña ciudad de Toledo. Soy un apasionado de la tecnología, me encanta aprender constantemente y me interesa mucho el mercado tecnológico. Tengo experiencia en logística (tanto de mozo de almacén como de ingeniero informático) ya que fui mozo mientras me sacaba la carrera y realicé mis prácticas en una logística. Posteriormente estuve alrededor de un año trabajando para una empresa a través de un contrato de investigador en la universidad y tras pasar el año me hicieron fijo. Por tanto llevo 2 años y algo en la compañía. En ella nos dedicamos a la ingeniería de sistemas; creamos software para gestionar requisitos, trazabilidad... basados en natural language processing. En resumen una empresa de producto. Este año me ascendieron a responsable de Trazabilidad y llevo un pequeño equipo de 2 personas. Mi sueño es trabajar en remoto desde la playa para alguna empresa que me motive a seguir aprendiendo cada día y me trate mas como un humano que como un recurso.",
       "avatar": {
-        "alt": "uX5nqx1M-min (1).png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b2c919c0-e785-437d-8982-183f144a99d7_ux5nqx1m-min-(1).png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b2c919c0-e785-437d-8982-183f144a99d7_ux5nqx1m-min-(1).png",
+        "alt": "uX5nqx1M-min (1).png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ8f21C60Lag0R_q11auhbf8Y)",
         "country": "España",
         "region": "Castilla-La Mancha",
-        "municipality": "Toledo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Toledo"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/davidmhz95"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/david-mu%C3%B1oz-hern%C3%A1ndez-216517136"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Me gusta el fitness.",
@@ -44,6 +34,16 @@
         "topic": "Me encantan las pelis de Marvel y DC.",
         "fact": "Sé que no es cine muy de entendidos, son las típicas películas palomiteras, pero que le vamos a hacer, a mi me gustan bastante."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/david-mu%C3%B1oz-hern%C3%A1ndez-216517136"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/davidmhz95"
+      }
     ]
   },
   "experience": {
@@ -52,8 +52,8 @@
         "organization": {
           "name": "The Reuse Company",
           "image": {
-            "alt": "1623251951644.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/3b41605e-ee26-4330-b320-d292c809ce5b_1623251951644.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/3b41605e-ee26-4330-b320-d292c809ce5b_1623251951644.jpg",
+            "alt": "1623251951644.jpg"
           },
           "URL": "https://www.reusecompany.com/"
         },
@@ -103,8 +103,8 @@
         "organization": {
           "name": "Universidad Carlos III de Madrid",
           "image": {
-            "alt": "1519855959123.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/65b4747b-5022-47b0-88c4-93d6e3dc177b_1519855959123.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/65b4747b-5022-47b0-88c4-93d6e3dc177b_1519855959123.jpg",
+            "alt": "1519855959123.jpg"
           },
           "URL": "http://www.kr.inf.uc3m.es/who-we-are/old-members-2/"
         },
@@ -155,8 +155,8 @@
         "organization": {
           "name": "FM Logistic Iberica",
           "image": {
-            "alt": "1554274133387.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/56d6f919-0ff2-4b4c-b4f1-8c6692a39422_1554274133387.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/56d6f919-0ff2-4b4c-b4f1-8c6692a39422_1554274133387.jpg",
+            "alt": "1554274133387.jpg"
           },
           "URL": "https://www.fmlogistic.es/"
         },
@@ -258,57 +258,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Subversion",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": ".NET",
@@ -323,7 +281,49 @@
       },
       {
         "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Subversion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -331,88 +331,64 @@
     "studies": [
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "JavaScript Algorithms and Data Structures",
-        "startDate": "2021-08-01",
-        "institution": {
-          "name": "FreeCodeCamp",
-          "description": "Developer Certification, representing approximately 300 hours of coursework.",
-          "URL": "https://www.freecodecamp.org/certification/fcc71bfc6e5-256e-40d7-9d58-469eb65c5e63/javascript-algorithms-and-data-structures",
-          "image": {
-            "alt": "1589990867649.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/0816d4a8-ecdb-48ce-9096-87fa5d36f290_1589990867649.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Curso de productividad en la era digital",
-        "startDate": "2018-10-01",
-        "finishDate": "2018-10-01",
+        "name": "Curso básico de Marketing Digital",
+        "startDate": "2018-06-01",
         "institution": {
           "name": "Google Actívate",
-          "description": "",
-          "URL": "https://sites.google.com/view/productividad-personal/",
+          "URL": "https://sites.google.com/view/curso-basico-marketing-digital/",
           "image": {
-            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/d40bc9cf-d7b5-4faa-9c0f-374835b43bd4_dw_logo_es_es_horiz_.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/264796a6-1ca5-459d-9268-8ce47e581ea8_dw_logo_es_es_horiz_.png",
+            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png"
           }
-        }
+        },
+        "finishDate": "2018-06-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Curso de Transformación digital para el empleo",
         "startDate": "2018-07-01",
-        "finishDate": "2018-07-01",
         "institution": {
           "name": "Google Actívate",
-          "description": "",
           "URL": "https://sites.google.com/view/transformacion-para-el-empleo/",
           "image": {
-            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/3075fe68-5fa1-463d-9b21-7e182974d4fd_dw_logo_es_es_horiz_.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/3075fe68-5fa1-463d-9b21-7e182974d4fd_dw_logo_es_es_horiz_.png",
+            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png"
           }
-        }
+        },
+        "finishDate": "2018-07-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Curso básico de Marketing Digital",
-        "startDate": "2018-06-01",
-        "finishDate": "2018-06-01",
+        "name": "Curso de productividad en la era digital",
+        "startDate": "2018-10-01",
         "institution": {
           "name": "Google Actívate",
-          "description": "",
-          "URL": "https://sites.google.com/view/curso-basico-marketing-digital/",
+          "URL": "https://sites.google.com/view/productividad-personal/",
           "image": {
-            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/264796a6-1ca5-459d-9268-8ce47e581ea8_dw_logo_es_es_horiz_.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/d40bc9cf-d7b5-4faa-9c0f-374835b43bd4_dw_logo_es_es_horiz_.png",
+            "alt": "DW_Logo_ES_ES_Horiz_Colour (1).png"
           }
-        }
+        },
+        "finishDate": "2018-10-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Graduado en Ingeniería Informática ",
         "startDate": "2014-09-01",
-        "finishDate": "2019-06-01",
         "institution": {
           "name": "Universidad Carlos III de Madrid",
           "description": "Certificado de graduación en el grado de ingeniería informática por la universidad Carlos III de Madrid",
           "URL": "https://www.uc3m.es/inicio",
           "image": {
-            "alt": "1519855959123.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b191444c-2fd5-4a20-923d-8304da9d1d43_1519855959123.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/b191444c-2fd5-4a20-923d-8304da9d1d43_1519855959123.jpg",
+            "alt": "1519855959123.jpg"
           }
         },
+        "finishDate": "2019-06-01",
         "linkedCompetences": [
           {
             "name": "C#",
@@ -447,6 +423,47 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript Algorithms and Data Structures",
+        "startDate": "2021-08-01",
+        "institution": {
+          "name": "FreeCodeCamp",
+          "description": "Developer Certification, representing approximately 300 hours of coursework.",
+          "URL": "https://www.freecodecamp.org/certification/fcc71bfc6e5-256e-40d7-9d58-469eb65c5e63/javascript-algorithms-and-data-structures",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/0816d4a8-ecdb-48ce-9096-87fa5d36f290_1589990867649.jpg",
+            "alt": "1589990867649.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -454,8 +471,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/david-mu%C3%B1oz-hern%C3%A1ndez-216517136"
+          "URL": "https://www.linkedin.com/in/david-mu%C3%B1oz-hern%C3%A1ndez-216517136",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/davidmhz95",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "davidmhz95@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "690160505",
+          "countryCode": "+34"
         }
       ]
     },
@@ -467,5 +497,13 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Aunque actualmente toda mi experiencia es en C# en back y Angular en front, me gustaría empezar con un stack de tecnología nuevo. Me llama mucho la atención Node, pero actualmente no tengo mucho tiempo para aprender en ratos libres... Me gustaría estar en un sitio donde se valore a las personas por encima de los clientes/proyectos, donde se apueste por la formación y se valoren los principios y las ganas por encima de la experiencia en una tecnología concreta.\n\nY si puede ser con gente que se preste a ser parte de algo más que una empresa, dónde se puedan establecer relaciones de compañerismo y amistad. No solo laborales.\n\n",
+    "projects": [
+      {
+        "name": "Black Market"
+      }
+    ]
   }
 }
