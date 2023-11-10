@@ -493,12 +493,6 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Capacidad de recibir feedback",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Inteligencia emocional",
           "type": "practice"
         }
