@@ -443,6 +443,27 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Principios SOLID y Clean Code",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Principios SOLID explicados con ejemplos en TypeScript.\nComo hacer código limpio.\nComo evitar code smells",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-eedbec32-923f-402f-9aee-899e1886c92e.pdf",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/10/97d31acc-4df1-4a7e-a1cf-5c8e9a6a9fae_udemy-new-20212512.jpg",
+            "alt": "udemy-new-20212512.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
