@@ -257,6 +257,29 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Producto RAT Online",
+          "description": "Conversion del clasico RAT de The Reuse Company a extensión de navegador y aplicación web.",
+          "URL": "https://chrome.google.com/webstore/detail/requirements-authoring-to/ooeooiggjmbbjnnjnkefoedgkmeamcoe?hl=es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/10/8c1a2cb5-5888-48c4-867f-66f1a4b066cf_rat-box-min-1-1.png",
+            "alt": "RAT-Box-min-1-1.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2023-11-01",
+        "relatedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Producto Traceability Studio",
           "description": "Coordinación y desarrollo de la app de escritorio Traceability Studio. Que actualmente se vende dentro de un PLM conocido como SES Engineering Studio.\n",
           "URL": "https://www.reusecompany.com/traceability-management",
