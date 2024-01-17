@@ -60,7 +60,7 @@
         "roles": [
           {
             "name": "Software Developer",
-            "startDate": "2021-01-01",
+            "startDate": "2019-10-01",
             "challenges": [
               {
                 "description": "- Coordinación y participación en la mejora y mantenimiento de una aplicación de escritorio .NET usada para la trazabilidad.\n- Integración de aplicaciones .NET\n- Desarrollo de un visualizador genérico de diagramas usando tecnología .NET y devexpress.\n- Colaboración en el desarrollo de la interfaz del buscador web \"Alacarta\" de RTVE basada en Angular.\n- Participación en el proyecto europeo IMOLA: https://www.elra.eu/imola-project/"
@@ -503,12 +503,6 @@
       ],
       "contactMails": [
         "davidmhz95@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "690160505",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
