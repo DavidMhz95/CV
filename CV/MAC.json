@@ -37,9 +37,10 @@
     ],
     "recommendations": [
       {
-        "title": "Guru Patterns ",
+        "title": "Patrones de diseño",
         "type": "reading",
-        "URL": "https://refactoring.guru/es/design-patterns"
+        "URL": "https://refactoring.guru/es/design-patterns",
+        "summary": "Web para aprender con ejemplos visuales de patrones de diseño."
       }
     ],
     "relevantLinks": [
@@ -542,7 +543,7 @@
     ],
     "bookmarks": [
       {
-        "name": "Guru Patterns "
+        "name": "Patrones de diseño"
       }
     ]
   }
