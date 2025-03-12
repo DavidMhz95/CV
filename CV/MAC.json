@@ -35,6 +35,13 @@
         "fact": "Sé que no es cine muy de entendidos, son las típicas películas palomiteras, pero que le vamos a hacer, a mi me gustan bastante."
       }
     ],
+    "recommendations": [
+      {
+        "title": "Guru Patterns ",
+        "type": "reading",
+        "URL": "https://refactoring.guru/es/design-patterns"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
@@ -531,6 +538,11 @@
     "projects": [
       {
         "name": "Black Market"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Guru Patterns "
       }
     ]
   }
