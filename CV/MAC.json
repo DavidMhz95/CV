@@ -58,6 +58,28 @@
     "jobs": [
       {
         "organization": {
+          "name": "The Reuse Company"
+        },
+        "roles": [
+          {
+            "name": "Project Manager - Software Developer",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "En los últimos dos años he ido adquiriendo responsabilidad en los productos de la compañía, gestionando tanto estos como los proyectos. \nAlgunos de estos son: IMOLA (proyecto), Karl Storz (proyecto), RAT online (Producto), Traceability (Producto). \nPasando por diseño, implementación (código), extración de necesidades con stakeholders,  extracción de requisitos , planificación, negociación y presupuesto y despliegues en clientes.\n\nAparte de desarrollar, tambien he adquirido experiencia en gestión y liderazgo de equipos. Formación tanto a nivel personal como empoderamiento de personas dentro del equipo. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "The Reuse Company",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/31/3b41605e-ee26-4330-b320-d292c809ce5b_1623251951644.jpg",
