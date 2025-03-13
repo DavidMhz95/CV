@@ -58,7 +58,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "The Reuse Company"
+          "name": "The Reuse Company",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/13/ec47ab1a-7754-4d53-b50d-c73f9b53f9d7_3b41605e-ee26-4330-b.jpg",
+            "alt": "3b41605e-ee26-4330-b320-d292c809ce5b_1623251951644.jpg"
+          },
+          "URL": "https://www.reusecompany.com/"
         },
         "roles": [
           {
