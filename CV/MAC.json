@@ -58,6 +58,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "CaixaBank Tech",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/09/2e96d77a-537d-4107-a795-fed84f46eadc_cabktech_logo.jpg",
+            "alt": "cabktech_logo.jpg"
+          },
+          "URL": "https://www.caixabanktech.com/es/pagina-de-inicio/"
+        },
+        "roles": [
+          {
+            "name": "Arquitecto de Soluciones",
+            "startDate": "2025-12-01",
+            "challenges": [
+              {
+                "description": "Arquitecto de soluciones en caixabank tech"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "The Reuse Company",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/13/ec47ab1a-7754-4d53-b50d-c73f9b53f9d7_3b41605e-ee26-4330-b.jpg",
